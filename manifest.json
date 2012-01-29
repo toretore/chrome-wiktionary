@@ -1,0 +1,12 @@
+{
+  "name": "Look up in Wiktionary",
+  "description": "Look up selected word in Wiktionary",
+  "version": "0.1",
+  "permissions": ["contextMenus", "tabs"],
+  "background_page": "background.html",
+  "icons": {
+    "128": "128.png",
+    "48": "48.png",
+    "16": "16.png"
+  }
+}
